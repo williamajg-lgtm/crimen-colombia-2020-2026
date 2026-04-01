@@ -110,3 +110,15 @@ El análisis geográfico de la criminalidad no es solo una cuestión de localiza
 ## Autor
 
 **williamajg-lgtm** — Colombia, 2026
+
+---
+
+## Datos
+
+El dataset completo (`df_eventos.csv`, ~6.7M registros) supera el límite de carga de GitHub (25 MB).
+Puede acceder al archivo completo en Google Drive:
+
+📂 [Descargar df_eventos.csv (Google Drive)](https://drive.google.com/file/d/1cICJ-nX-6XXUPrrDMtK2hFrdUqqnYINH/view?usp=sharing)
+
+Los archivos incluidos en este repositorio (`data/`) son:
+- `CODDANE.xlsx` — tabla de georreferenciación con códigos DANE, latitud y longitud por municipio
